@@ -8,7 +8,7 @@
 
 #import "TTBarkingListViewController.h"
 #import "TTBarkingDetailViewController.h"
-#import "TTBarkingCenter.m"
+#import "TTBarkingCenter.h"
 
 @interface TTBarkingListCell : UITableViewCell
 

@@ -14,23 +14,24 @@
 		CB5900541DC5EEEC00C90B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB5900531DC5EEEC00C90B68 /* Assets.xcassets */; };
 		CB5900571DC5EEEC00C90B68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB5900551DC5EEEC00C90B68 /* LaunchScreen.storyboard */; };
 		CB5900621DC5EEEC00C90B68 /* TTWatchPuppyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900611DC5EEEC00C90B68 /* TTWatchPuppyTests.m */; };
-		CB5900781DC5F11D00C90B68 /* UIView+TTWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900771DC5F11D00C90B68 /* UIView+TTWatch.m */; };
-		CB59007B1DC5F13F00C90B68 /* NSObject+TTHook.m in Sources */ = {isa = PBXBuildFile; fileRef = CB59007A1DC5F13F00C90B68 /* NSObject+TTHook.m */; };
-		CB59009B1DC8E49C00C90B68 /* TTWatchPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB59009A1DC8E49C00C90B68 /* TTWatchPuppy.m */; };
-		CB59009E1DC8F61700C90B68 /* TTWatchDog.m in Sources */ = {isa = PBXBuildFile; fileRef = CB59009D1DC8F61700C90B68 /* TTWatchDog.m */; };
-		CB5900A71DC8F7D600C90B68 /* TTUIThreadPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900A61DC8F7D600C90B68 /* TTUIThreadPuppy.m */; };
-		CB5900BE1DCA280000C90B68 /* TTBarkingInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900BD1DCA280000C90B68 /* TTBarkingInfo.m */; };
-		CB5900C11DCA282300C90B68 /* TTBarkingUI.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900C01DCA282300C90B68 /* TTBarkingUI.m */; };
-		CB5900C41DCA346D00C90B68 /* TTNotificationPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5900C31DCA346D00C90B68 /* TTNotificationPuppy.m */; };
-		CB5B4CD11E690332003DB23A /* UIViewController+TTHook.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5B4CCD1E690332003DB23A /* UIViewController+TTHook.m */; };
-		CB5B4CD21E690332003DB23A /* NSObject+TTAutoLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5B4CCF1E690332003DB23A /* NSObject+TTAutoLayout.m */; };
-		CB80D9BA1DD226A100FE73A1 /* TTBarkingView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB80D9B91DD226A100FE73A1 /* TTBarkingView.m */; };
-		CBD59F661DCB07CF0025478E /* NSNotificationCenter+TTWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F651DCB07CF0025478E /* NSNotificationCenter+TTWatch.m */; };
-		CBD59F6C1DCB603F0025478E /* TTUIExceptionPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F6B1DCB603F0025478E /* TTUIExceptionPuppy.m */; };
-		CBD59F791DCB89CC0025478E /* TTTableViewCellPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F781DCB89CC0025478E /* TTTableViewCellPuppy.m */; };
-		CBD59F7F1DCB96000025478E /* TTBarkingDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F7E1DCB96000025478E /* TTBarkingDetailViewController.m */; };
-		CBD59F821DCB96240025478E /* TTBarkingListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F811DCB96240025478E /* TTBarkingListViewController.m */; };
-		CBD59F851DCB964D0025478E /* TTBarkingDot.m in Sources */ = {isa = PBXBuildFile; fileRef = CBD59F841DCB964D0025478E /* TTBarkingDot.m */; };
+		CB95B7841FD914A4007D8C25 /* TTWatchPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B75C1FD914A3007D8C25 /* TTWatchPuppy.m */; };
+		CB95B7851FD914A4007D8C25 /* TTWatchDog.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B75F1FD914A3007D8C25 /* TTWatchDog.m */; };
+		CB95B7861FD914A4007D8C25 /* TTBarkingView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7641FD914A3007D8C25 /* TTBarkingView.m */; };
+		CB95B7871FD914A4007D8C25 /* TTBarkingListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7661FD914A3007D8C25 /* TTBarkingListViewController.m */; };
+		CB95B7881FD914A4007D8C25 /* TTBarkingDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7681FD914A3007D8C25 /* TTBarkingDetailViewController.m */; };
+		CB95B7891FD914A4007D8C25 /* TTBarkingInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7691FD914A3007D8C25 /* TTBarkingInfo.m */; };
+		CB95B78A1FD914A4007D8C25 /* TTBarkingDot.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B76A1FD914A3007D8C25 /* TTBarkingDot.m */; };
+		CB95B78B1FD914A4007D8C25 /* TTBarkingUI.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B76B1FD914A3007D8C25 /* TTBarkingUI.m */; };
+		CB95B78C1FD914A4007D8C25 /* TTBarkingCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B76E1FD914A3007D8C25 /* TTBarkingCenter.m */; };
+		CB95B78D1FD914A4007D8C25 /* TTTableViewCellPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7731FD914A3007D8C25 /* TTTableViewCellPuppy.m */; };
+		CB95B78E1FD914A4007D8C25 /* TTUIExceptionPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7751FD914A3007D8C25 /* TTUIExceptionPuppy.m */; };
+		CB95B78F1FD914A4007D8C25 /* TTNotificationPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7761FD914A3007D8C25 /* TTNotificationPuppy.m */; };
+		CB95B7901FD914A4007D8C25 /* TTUIThreadPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7781FD914A3007D8C25 /* TTUIThreadPuppy.m */; };
+		CB95B7911FD914A4007D8C25 /* NSNotificationCenter+TTWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B77C1FD914A3007D8C25 /* NSNotificationCenter+TTWatch.m */; };
+		CB95B7921FD914A4007D8C25 /* NSObject+TTAutoLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B77D1FD914A3007D8C25 /* NSObject+TTAutoLayout.m */; };
+		CB95B7931FD914A4007D8C25 /* UIView+TTWatch.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B77E1FD914A3007D8C25 /* UIView+TTWatch.m */; };
+		CB95B7941FD914A4007D8C25 /* NSObject+TTHook.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B77F1FD914A3007D8C25 /* NSObject+TTHook.m */; };
+		CB95B7951FD914A4007D8C25 /* UIViewController+TTHook.m in Sources */ = {isa = PBXBuildFile; fileRef = CB95B7801FD914A3007D8C25 /* UIViewController+TTHook.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,43 +58,43 @@
 		CB59005D1DC5EEEC00C90B68 /* TTWatchPuppyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTWatchPuppyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5900611DC5EEEC00C90B68 /* TTWatchPuppyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTWatchPuppyTests.m; sourceTree = "<group>"; };
 		CB5900631DC5EEEC00C90B68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB5900761DC5F11D00C90B68 /* UIView+TTWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+TTWatch.h"; sourceTree = "<group>"; };
-		CB5900771DC5F11D00C90B68 /* UIView+TTWatch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+TTWatch.m"; sourceTree = "<group>"; };
-		CB5900791DC5F13F00C90B68 /* NSObject+TTHook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+TTHook.h"; sourceTree = "<group>"; };
-		CB59007A1DC5F13F00C90B68 /* NSObject+TTHook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+TTHook.m"; sourceTree = "<group>"; };
-		CB5900991DC8E49C00C90B68 /* TTWatchPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTWatchPuppy.h; sourceTree = "<group>"; };
-		CB59009A1DC8E49C00C90B68 /* TTWatchPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTWatchPuppy.m; sourceTree = "<group>"; };
-		CB59009C1DC8F61700C90B68 /* TTWatchDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTWatchDog.h; sourceTree = "<group>"; };
-		CB59009D1DC8F61700C90B68 /* TTWatchDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTWatchDog.m; sourceTree = "<group>"; };
-		CB5900A51DC8F7D600C90B68 /* TTUIThreadPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTUIThreadPuppy.h; sourceTree = "<group>"; };
-		CB5900A61DC8F7D600C90B68 /* TTUIThreadPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTUIThreadPuppy.m; sourceTree = "<group>"; };
-		CB5900BC1DCA280000C90B68 /* TTBarkingInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingInfo.h; sourceTree = "<group>"; };
-		CB5900BD1DCA280000C90B68 /* TTBarkingInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingInfo.m; sourceTree = "<group>"; };
-		CB5900BF1DCA282300C90B68 /* TTBarkingUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingUI.h; sourceTree = "<group>"; };
-		CB5900C01DCA282300C90B68 /* TTBarkingUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingUI.m; sourceTree = "<group>"; };
-		CB5900C21DCA346D00C90B68 /* TTNotificationPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTNotificationPuppy.h; sourceTree = "<group>"; };
-		CB5900C31DCA346D00C90B68 /* TTNotificationPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTNotificationPuppy.m; sourceTree = "<group>"; };
-		CB5B4CCD1E690332003DB23A /* UIViewController+TTHook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+TTHook.m"; sourceTree = "<group>"; };
-		CB5B4CCE1E690332003DB23A /* UIViewController+TTHook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+TTHook.h"; sourceTree = "<group>"; };
-		CB5B4CCF1E690332003DB23A /* NSObject+TTAutoLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+TTAutoLayout.m"; sourceTree = "<group>"; };
-		CB5B4CD01E690332003DB23A /* NSObject+TTAutoLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+TTAutoLayout.h"; sourceTree = "<group>"; };
-		CB80D9B81DD226A100FE73A1 /* TTBarkingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingView.h; sourceTree = "<group>"; };
-		CB80D9B91DD226A100FE73A1 /* TTBarkingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingView.m; sourceTree = "<group>"; };
-		CBABAA601DD4A0630030290B /* TTBarkingHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTBarkingHeader.h; sourceTree = "<group>"; };
-		CBABAA621DD4B6EF0030290B /* TTBarkingCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingCenter.h; sourceTree = "<group>"; };
-		CBABAA631DD4B6EF0030290B /* TTBarkingCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingCenter.m; sourceTree = "<group>"; };
-		CBD59F641DCB07CF0025478E /* NSNotificationCenter+TTWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNotificationCenter+TTWatch.h"; sourceTree = "<group>"; };
-		CBD59F651DCB07CF0025478E /* NSNotificationCenter+TTWatch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNotificationCenter+TTWatch.m"; sourceTree = "<group>"; };
-		CBD59F6A1DCB603F0025478E /* TTUIExceptionPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTUIExceptionPuppy.h; sourceTree = "<group>"; };
-		CBD59F6B1DCB603F0025478E /* TTUIExceptionPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTUIExceptionPuppy.m; sourceTree = "<group>"; };
-		CBD59F771DCB89CC0025478E /* TTTableViewCellPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTableViewCellPuppy.h; sourceTree = "<group>"; };
-		CBD59F781DCB89CC0025478E /* TTTableViewCellPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTableViewCellPuppy.m; sourceTree = "<group>"; };
-		CBD59F7D1DCB96000025478E /* TTBarkingDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingDetailViewController.h; sourceTree = "<group>"; };
-		CBD59F7E1DCB96000025478E /* TTBarkingDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingDetailViewController.m; sourceTree = "<group>"; };
-		CBD59F801DCB96240025478E /* TTBarkingListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingListViewController.h; sourceTree = "<group>"; };
-		CBD59F811DCB96240025478E /* TTBarkingListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingListViewController.m; sourceTree = "<group>"; };
-		CBD59F831DCB964D0025478E /* TTBarkingDot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingDot.h; sourceTree = "<group>"; };
-		CBD59F841DCB964D0025478E /* TTBarkingDot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingDot.m; sourceTree = "<group>"; };
+		CB95B75C1FD914A3007D8C25 /* TTWatchPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTWatchPuppy.m; sourceTree = "<group>"; };
+		CB95B75D1FD914A3007D8C25 /* TTWatchDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTWatchDog.h; sourceTree = "<group>"; };
+		CB95B75E1FD914A3007D8C25 /* TTWatchPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTWatchPuppy.h; sourceTree = "<group>"; };
+		CB95B75F1FD914A3007D8C25 /* TTWatchDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTWatchDog.m; sourceTree = "<group>"; };
+		CB95B7611FD914A3007D8C25 /* TTBarkingUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingUI.h; sourceTree = "<group>"; };
+		CB95B7621FD914A3007D8C25 /* TTBarkingDot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingDot.h; sourceTree = "<group>"; };
+		CB95B7631FD914A3007D8C25 /* TTBarkingInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingInfo.h; sourceTree = "<group>"; };
+		CB95B7641FD914A3007D8C25 /* TTBarkingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingView.m; sourceTree = "<group>"; };
+		CB95B7651FD914A3007D8C25 /* TTBarkingHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingHeader.h; sourceTree = "<group>"; };
+		CB95B7661FD914A3007D8C25 /* TTBarkingListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingListViewController.m; sourceTree = "<group>"; };
+		CB95B7671FD914A3007D8C25 /* TTBarkingCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingCenter.h; sourceTree = "<group>"; };
+		CB95B7681FD914A3007D8C25 /* TTBarkingDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingDetailViewController.m; sourceTree = "<group>"; };
+		CB95B7691FD914A3007D8C25 /* TTBarkingInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingInfo.m; sourceTree = "<group>"; };
+		CB95B76A1FD914A3007D8C25 /* TTBarkingDot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingDot.m; sourceTree = "<group>"; };
+		CB95B76B1FD914A3007D8C25 /* TTBarkingUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingUI.m; sourceTree = "<group>"; };
+		CB95B76C1FD914A3007D8C25 /* TTBarkingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingView.h; sourceTree = "<group>"; };
+		CB95B76D1FD914A3007D8C25 /* TTBarkingDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingDetailViewController.h; sourceTree = "<group>"; };
+		CB95B76E1FD914A3007D8C25 /* TTBarkingCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTBarkingCenter.m; sourceTree = "<group>"; };
+		CB95B76F1FD914A3007D8C25 /* TTBarkingListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTBarkingListViewController.h; sourceTree = "<group>"; };
+		CB95B7711FD914A3007D8C25 /* TTNotificationPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTNotificationPuppy.h; sourceTree = "<group>"; };
+		CB95B7721FD914A3007D8C25 /* TTUIExceptionPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTUIExceptionPuppy.h; sourceTree = "<group>"; };
+		CB95B7731FD914A3007D8C25 /* TTTableViewCellPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTableViewCellPuppy.m; sourceTree = "<group>"; };
+		CB95B7741FD914A3007D8C25 /* TTUIThreadPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTUIThreadPuppy.h; sourceTree = "<group>"; };
+		CB95B7751FD914A3007D8C25 /* TTUIExceptionPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTUIExceptionPuppy.m; sourceTree = "<group>"; };
+		CB95B7761FD914A3007D8C25 /* TTNotificationPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTNotificationPuppy.m; sourceTree = "<group>"; };
+		CB95B7771FD914A3007D8C25 /* TTTableViewCellPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTableViewCellPuppy.h; sourceTree = "<group>"; };
+		CB95B7781FD914A3007D8C25 /* TTUIThreadPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTUIThreadPuppy.m; sourceTree = "<group>"; };
+		CB95B77A1FD914A3007D8C25 /* UIViewController+TTHook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+TTHook.h"; sourceTree = "<group>"; };
+		CB95B77B1FD914A3007D8C25 /* NSObject+TTHook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+TTHook.h"; sourceTree = "<group>"; };
+		CB95B77C1FD914A3007D8C25 /* NSNotificationCenter+TTWatch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNotificationCenter+TTWatch.m"; sourceTree = "<group>"; };
+		CB95B77D1FD914A3007D8C25 /* NSObject+TTAutoLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+TTAutoLayout.m"; sourceTree = "<group>"; };
+		CB95B77E1FD914A3007D8C25 /* UIView+TTWatch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+TTWatch.m"; sourceTree = "<group>"; };
+		CB95B77F1FD914A3007D8C25 /* NSObject+TTHook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+TTHook.m"; sourceTree = "<group>"; };
+		CB95B7801FD914A3007D8C25 /* UIViewController+TTHook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+TTHook.m"; sourceTree = "<group>"; };
+		CB95B7811FD914A3007D8C25 /* UIView+TTWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+TTWatch.h"; sourceTree = "<group>"; };
+		CB95B7821FD914A3007D8C25 /* NSObject+TTAutoLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+TTAutoLayout.h"; sourceTree = "<group>"; };
+		CB95B7831FD914A3007D8C25 /* NSNotificationCenter+TTWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNotificationCenter+TTWatch.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,77 +170,77 @@
 		CB59006C1DC5EEF300C90B68 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				CB5900981DC8E06800C90B68 /* Puppies */,
-				CB59006F1DC5EF0D00C90B68 /* Core */,
-				CB59006E1DC5EF0000C90B68 /* Utility */,
-				CB59006D1DC5EEFA00C90B68 /* UI */,
+				CB95B75B1FD914A3007D8C25 /* Core */,
+				CB95B7701FD914A3007D8C25 /* Puppies */,
+				CB95B7601FD914A3007D8C25 /* UI */,
+				CB95B7791FD914A3007D8C25 /* Utility */,
 			);
 			name = Source;
 			sourceTree = "<group>";
 		};
-		CB59006D1DC5EEFA00C90B68 /* UI */ = {
+		CB95B75B1FD914A3007D8C25 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				CBABAA601DD4A0630030290B /* TTBarkingHeader.h */,
-				CBABAA621DD4B6EF0030290B /* TTBarkingCenter.h */,
-				CBABAA631DD4B6EF0030290B /* TTBarkingCenter.m */,
-				CBD59F801DCB96240025478E /* TTBarkingListViewController.h */,
-				CBD59F811DCB96240025478E /* TTBarkingListViewController.m */,
-				CBD59F7D1DCB96000025478E /* TTBarkingDetailViewController.h */,
-				CBD59F7E1DCB96000025478E /* TTBarkingDetailViewController.m */,
-				CB5900BF1DCA282300C90B68 /* TTBarkingUI.h */,
-				CB5900C01DCA282300C90B68 /* TTBarkingUI.m */,
-				CB80D9B81DD226A100FE73A1 /* TTBarkingView.h */,
-				CB80D9B91DD226A100FE73A1 /* TTBarkingView.m */,
-				CBD59F831DCB964D0025478E /* TTBarkingDot.h */,
-				CBD59F841DCB964D0025478E /* TTBarkingDot.m */,
-				CB5900BC1DCA280000C90B68 /* TTBarkingInfo.h */,
-				CB5900BD1DCA280000C90B68 /* TTBarkingInfo.m */,
+				CB95B75D1FD914A3007D8C25 /* TTWatchDog.h */,
+				CB95B75F1FD914A3007D8C25 /* TTWatchDog.m */,
+				CB95B75E1FD914A3007D8C25 /* TTWatchPuppy.h */,
+				CB95B75C1FD914A3007D8C25 /* TTWatchPuppy.m */,
 			);
-			name = UI;
+			path = Core;
 			sourceTree = "<group>";
 		};
-		CB59006E1DC5EF0000C90B68 /* Utility */ = {
+		CB95B7601FD914A3007D8C25 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				CB5B4CCD1E690332003DB23A /* UIViewController+TTHook.m */,
-				CB5B4CCE1E690332003DB23A /* UIViewController+TTHook.h */,
-				CB5B4CCF1E690332003DB23A /* NSObject+TTAutoLayout.m */,
-				CB5B4CD01E690332003DB23A /* NSObject+TTAutoLayout.h */,
-				CB5900761DC5F11D00C90B68 /* UIView+TTWatch.h */,
-				CB5900771DC5F11D00C90B68 /* UIView+TTWatch.m */,
-				CBD59F641DCB07CF0025478E /* NSNotificationCenter+TTWatch.h */,
-				CBD59F651DCB07CF0025478E /* NSNotificationCenter+TTWatch.m */,
-				CB5900791DC5F13F00C90B68 /* NSObject+TTHook.h */,
-				CB59007A1DC5F13F00C90B68 /* NSObject+TTHook.m */,
+				CB95B7611FD914A3007D8C25 /* TTBarkingUI.h */,
+				CB95B76B1FD914A3007D8C25 /* TTBarkingUI.m */,
+				CB95B7621FD914A3007D8C25 /* TTBarkingDot.h */,
+				CB95B76A1FD914A3007D8C25 /* TTBarkingDot.m */,
+				CB95B7631FD914A3007D8C25 /* TTBarkingInfo.h */,
+				CB95B7691FD914A3007D8C25 /* TTBarkingInfo.m */,
+				CB95B76C1FD914A3007D8C25 /* TTBarkingView.h */,
+				CB95B7641FD914A3007D8C25 /* TTBarkingView.m */,
+				CB95B7651FD914A3007D8C25 /* TTBarkingHeader.h */,
+				CB95B7671FD914A3007D8C25 /* TTBarkingCenter.h */,
+				CB95B76E1FD914A3007D8C25 /* TTBarkingCenter.m */,
+				CB95B7681FD914A3007D8C25 /* TTBarkingDetailViewController.m */,
+				CB95B76D1FD914A3007D8C25 /* TTBarkingDetailViewController.h */,
+				CB95B76F1FD914A3007D8C25 /* TTBarkingListViewController.h */,
+				CB95B7661FD914A3007D8C25 /* TTBarkingListViewController.m */,
 			);
-			name = Utility;
+			path = UI;
 			sourceTree = "<group>";
 		};
-		CB59006F1DC5EF0D00C90B68 /* Core */ = {
+		CB95B7701FD914A3007D8C25 /* Puppies */ = {
 			isa = PBXGroup;
 			children = (
-				CB5900991DC8E49C00C90B68 /* TTWatchPuppy.h */,
-				CB59009A1DC8E49C00C90B68 /* TTWatchPuppy.m */,
-				CB59009C1DC8F61700C90B68 /* TTWatchDog.h */,
-				CB59009D1DC8F61700C90B68 /* TTWatchDog.m */,
+				CB95B7711FD914A3007D8C25 /* TTNotificationPuppy.h */,
+				CB95B7761FD914A3007D8C25 /* TTNotificationPuppy.m */,
+				CB95B7721FD914A3007D8C25 /* TTUIExceptionPuppy.h */,
+				CB95B7751FD914A3007D8C25 /* TTUIExceptionPuppy.m */,
+				CB95B7771FD914A3007D8C25 /* TTTableViewCellPuppy.h */,
+				CB95B7731FD914A3007D8C25 /* TTTableViewCellPuppy.m */,
+				CB95B7741FD914A3007D8C25 /* TTUIThreadPuppy.h */,
+				CB95B7781FD914A3007D8C25 /* TTUIThreadPuppy.m */,
 			);
-			name = Core;
+			path = Puppies;
 			sourceTree = "<group>";
 		};
-		CB5900981DC8E06800C90B68 /* Puppies */ = {
+		CB95B7791FD914A3007D8C25 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
-				CB5900A51DC8F7D600C90B68 /* TTUIThreadPuppy.h */,
-				CB5900A61DC8F7D600C90B68 /* TTUIThreadPuppy.m */,
-				CB5900C21DCA346D00C90B68 /* TTNotificationPuppy.h */,
-				CB5900C31DCA346D00C90B68 /* TTNotificationPuppy.m */,
-				CBD59F771DCB89CC0025478E /* TTTableViewCellPuppy.h */,
-				CBD59F781DCB89CC0025478E /* TTTableViewCellPuppy.m */,
-				CBD59F6A1DCB603F0025478E /* TTUIExceptionPuppy.h */,
-				CBD59F6B1DCB603F0025478E /* TTUIExceptionPuppy.m */,
+				CB95B77A1FD914A3007D8C25 /* UIViewController+TTHook.h */,
+				CB95B7801FD914A3007D8C25 /* UIViewController+TTHook.m */,
+				CB95B77B1FD914A3007D8C25 /* NSObject+TTHook.h */,
+				CB95B77F1FD914A3007D8C25 /* NSObject+TTHook.m */,
+				CB95B7831FD914A3007D8C25 /* NSNotificationCenter+TTWatch.h */,
+				CB95B77C1FD914A3007D8C25 /* NSNotificationCenter+TTWatch.m */,
+				CB95B7821FD914A3007D8C25 /* NSObject+TTAutoLayout.h */,
+				CB95B77D1FD914A3007D8C25 /* NSObject+TTAutoLayout.m */,
+				CB95B7811FD914A3007D8C25 /* UIView+TTWatch.h */,
+				CB95B77E1FD914A3007D8C25 /* UIView+TTWatch.m */,
 			);
-			name = Puppies;
+			path = Utility;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -346,26 +347,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBD59F851DCB964D0025478E /* TTBarkingDot.m in Sources */,
-				CB5900C11DCA282300C90B68 /* TTBarkingUI.m in Sources */,
-				CB5900BE1DCA280000C90B68 /* TTBarkingInfo.m in Sources */,
-				CB59009E1DC8F61700C90B68 /* TTWatchDog.m in Sources */,
-				CB5900781DC5F11D00C90B68 /* UIView+TTWatch.m in Sources */,
-				CB80D9BA1DD226A100FE73A1 /* TTBarkingView.m in Sources */,
-				CB5B4CD11E690332003DB23A /* UIViewController+TTHook.m in Sources */,
-				CB5900A71DC8F7D600C90B68 /* TTUIThreadPuppy.m in Sources */,
+				CB95B7931FD914A4007D8C25 /* UIView+TTWatch.m in Sources */,
+				CB95B78F1FD914A4007D8C25 /* TTNotificationPuppy.m in Sources */,
+				CB95B78B1FD914A4007D8C25 /* TTBarkingUI.m in Sources */,
+				CB95B7891FD914A4007D8C25 /* TTBarkingInfo.m in Sources */,
+				CB95B78D1FD914A4007D8C25 /* TTTableViewCellPuppy.m in Sources */,
 				CB59004F1DC5EEEC00C90B68 /* ViewController.m in Sources */,
-				CB59007B1DC5F13F00C90B68 /* NSObject+TTHook.m in Sources */,
+				CB95B78C1FD914A4007D8C25 /* TTBarkingCenter.m in Sources */,
+				CB95B78A1FD914A4007D8C25 /* TTBarkingDot.m in Sources */,
 				CB59004C1DC5EEEC00C90B68 /* AppDelegate.m in Sources */,
+				CB95B7951FD914A4007D8C25 /* UIViewController+TTHook.m in Sources */,
+				CB95B7921FD914A4007D8C25 /* NSObject+TTAutoLayout.m in Sources */,
+				CB95B7901FD914A4007D8C25 /* TTUIThreadPuppy.m in Sources */,
+				CB95B7881FD914A4007D8C25 /* TTBarkingDetailViewController.m in Sources */,
+				CB95B7941FD914A4007D8C25 /* NSObject+TTHook.m in Sources */,
+				CB95B7841FD914A4007D8C25 /* TTWatchPuppy.m in Sources */,
+				CB95B7911FD914A4007D8C25 /* NSNotificationCenter+TTWatch.m in Sources */,
+				CB95B7861FD914A4007D8C25 /* TTBarkingView.m in Sources */,
 				CB5900491DC5EEEB00C90B68 /* main.m in Sources */,
-				CBD59F791DCB89CC0025478E /* TTTableViewCellPuppy.m in Sources */,
-				CB5900C41DCA346D00C90B68 /* TTNotificationPuppy.m in Sources */,
-				CBD59F661DCB07CF0025478E /* NSNotificationCenter+TTWatch.m in Sources */,
-				CBD59F821DCB96240025478E /* TTBarkingListViewController.m in Sources */,
-				CB5B4CD21E690332003DB23A /* NSObject+TTAutoLayout.m in Sources */,
-				CBD59F7F1DCB96000025478E /* TTBarkingDetailViewController.m in Sources */,
-				CBD59F6C1DCB603F0025478E /* TTUIExceptionPuppy.m in Sources */,
-				CB59009B1DC8E49C00C90B68 /* TTWatchPuppy.m in Sources */,
+				CB95B7871FD914A4007D8C25 /* TTBarkingListViewController.m in Sources */,
+				CB95B78E1FD914A4007D8C25 /* TTUIExceptionPuppy.m in Sources */,
+				CB95B7851FD914A4007D8C25 /* TTWatchDog.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

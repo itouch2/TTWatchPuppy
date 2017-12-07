@@ -10,7 +10,6 @@
 #import "TTBarkingUI.h"
 #import "TTBarkingDot.h"
 #import "TTBarkingListViewController.h"
-#import <UIKit/UIKit.h>
 
 static TTBarkingCenter *barking = nil;
 

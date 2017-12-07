@@ -13,6 +13,7 @@
 @interface TTBarkingUI : NSObject
 
 @property (nonatomic, copy) dispatch_block_t finishedBlock;
+@property (nonatomic, assign) int test;
 
 - (void)barking:(TTBarkingInfo *)barkingInfo;
 

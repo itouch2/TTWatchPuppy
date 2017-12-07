@@ -39,7 +39,6 @@ static NSMutableArray *deallocCallbacks = nil;
     [NSObject hookAutoLayoutException];
 }
 
-
 - (void)tt_registerDeallocCallback:(dispatch_block_t)callback {
     
     TTDeallocMessenger *messenger = [[TTDeallocMessenger alloc] init];

@@ -22,6 +22,8 @@
 
 @implementation TTBarkingUI
 
+@synthesize test;
+
 - (void)barking:(TTBarkingInfo *)barkingInfo {
     UIView<TTBarkingAlertViewProtocol> *barkingView = nil;;
     switch (barkingInfo.style) {
@@ -54,6 +56,14 @@
     if (self.finishedBlock) {
         self.finishedBlock();
     }
+}
+
+- (void)setTest:(int)test {
+    test = test;
+}
+
+- (int)test {
+    return test;
 }
 
 #pragma mark - Getters

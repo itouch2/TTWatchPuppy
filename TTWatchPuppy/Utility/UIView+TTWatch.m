@@ -61,7 +61,7 @@ static NSMutableArray<TTCellAddSubviewCallback> *cellAddSubviewObservers = nil;
         return;
     }
     
-    if (cellAddSubviewObservers) {
+    if (!cellAddSubviewObservers) {
         cellAddSubviewObservers = [NSMutableArray array];
     }
     [cellAddSubviewObservers addObject:observer];
